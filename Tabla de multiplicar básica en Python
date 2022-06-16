@@ -2,3 +2,4 @@ n = int(input("Tabla del: "))
 
 for i in range(0,13):
     print(f"{n} X {i} = {n*i}")
+[![tabla-Python.png](https://i.postimg.cc/0QRYTQX2/tabla-Python.png)](https://postimg.cc/f3CSXwh6)
