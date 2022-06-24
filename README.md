@@ -1,4 +1,0 @@
-# Python-basic-
-basic applications 
-
-
