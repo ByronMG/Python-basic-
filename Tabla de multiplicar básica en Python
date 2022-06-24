@@ -1,4 +1,0 @@
-n = int(input("Tabla del: "))
-
-for i in range(0,13):
-    print(f"{n} X {i} = {n*i}")
